@@ -1,5 +1,5 @@
 # SQL-JOINS
-This repository offers clear explanations, practical examples on various types of SQL joins, including INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN and SELF JOIN.
+This repository offers clear explanations and practical examples on various types of SQL joins, including INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN and SELF JOIN.
 The data used is stored across multiple tables including;
 * employee
 * managers
